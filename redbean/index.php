@@ -6,6 +6,7 @@
 	<title>Document</title>
 </head>
 <body>
+	<?php require "rb/rb.php";?>
 	<div class="block__item">
 		<div class="block__el"></div>
 	</div>
